@@ -8,8 +8,6 @@ import Error404 from './pages/Error404'
 function App() {
 
   return (
-    <>
-    <h1>WORLDWISE</h1>
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<HomePage />}></Route>
@@ -18,7 +16,6 @@ function App() {
         <Route path='*' element={<Error404 />}></Route>
       </Routes>
     </BrowserRouter>
-    </>
   )
 }
 

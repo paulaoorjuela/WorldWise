@@ -1,6 +1,11 @@
+import PageNav from "../components/PageNav"
+
 function Error404() {
   return (
-    <div>404</div>
+    <div>
+        <PageNav />
+        <h1>404 Not Found</h1>
+    </div>
   )
 }
 
