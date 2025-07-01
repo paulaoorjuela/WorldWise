@@ -5,7 +5,7 @@ import Spinner from "./Spinner";
 
 function CityList({ cities, isLoading }) {
     if (isLoading) return <Spinner />;
-    if (!cities.length) return <Message message={"Add a cities by clicking on a city on the map"}/>
+    if (!cities.length) return <Message message={"Add a city by clicking on a city on the map"}/>
     return (
         <ul className={styles.cityList}>
         {cities.map((city) => (
