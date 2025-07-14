@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,55 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "4504",
+      "cityName": "Wijk bij Duurstede",
+      "country": "Netherlands (Kingdom of the)",
+      "emoji": "🇳🇱",
+      "date": "2025-07-14T19:05:40.151Z",
+      "notes": "HOOD",
+      "position": {
+        "lat": "51.98610378460321",
+        "lng": "5.295410156250001"
+      }
+    },
+    {
+      "id": "34b1",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-07-14T21:47:27.783Z",
+      "notes": "good",
+      "position": {
+        "lat": "51.510107881138346",
+        "lng": "-0.10986328125000001"
+      }
+    },
+    {
+      "id": "e81d",
+      "cityName": "Bogota",
+      "country": "Colombia",
+      "emoji": "🇨🇴",
+      "date": "2025-07-14T21:49:32.532Z",
+      "notes": "Pretty",
+      "position": {
+        "lat": "4.655278323647044",
+        "lng": "-74.04785156250001"
+      }
+    },
+    {
+      "id": "bcab",
+      "cityName": "Quito",
+      "country": "Ecuador",
+      "emoji": "🇪🇨",
+      "date": "2025-07-14T21:57:43.787Z",
+      "notes": "amazing",
+      "position": {
+        "lat": "-0.21382454597893316",
+        "lng": "-78.61816406250001"
+      }
     }
   ]
 }
